@@ -1,16 +1,16 @@
-CRUD Operations Project
+**CRUD Operations Project**
 This project is a basic example of CRUD (Create, Read, Update, Delete) operations using HTML, CSS, JavaScript, and PHP. It demonstrates how to perform these operations on a simple user database.
 
-Features
-Create: Add new users to the database.
+**Features**
+****Create:*** Add new users to the database.
 
-Read: Display user data in a table format.
+***Read:*** Display user data in a table format.
 
-Update: Edit existing user information.
+***Update:*** Edit existing user information.
 
-Delete: Remove users from the database.
+***Delete:*** Remove users from the database.
 
-Technologies Used
+**Technologies Used**
 HTML
 
 CSS
@@ -21,7 +21,7 @@ PHP
 
 MySQL
 
-Setup
+**Setup**
 1. Clone the repository:
    ***sh***
      git clone https://github.com/your-username/crud-operations.git
@@ -52,7 +52,7 @@ Setup
 5. Run the project:
     -> Start your local server (e.g., XAMPP, WAMP, MAMP).
     -> Open your browser and navigate to the project directory.
-Usage
+**Usage**
 1. Add a New User:
   -> Fill out the form and click the "Create" button.
 
@@ -63,8 +63,8 @@ Usage
 3. Delete a User:
   ->Click the "Delete" button next to the user you want to remove.
    
-Contributing
+**Contributing**
 Contributions are welcome! Please create an issue or submit a pull request for any enhancements or bug fixes.
 
-License
+**License**
 This project is open source and available under the MIT License.
